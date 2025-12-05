@@ -15,5 +15,6 @@ public class Program4 {
 			num = num / 10;
 		}
 		System.out.println("Sum of a number is :" + sum);
+		sc.close();
 	}
 }
