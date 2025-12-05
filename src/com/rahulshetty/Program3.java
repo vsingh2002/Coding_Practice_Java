@@ -10,7 +10,7 @@ public class Program3 {
 		for (int i = 2; i < 5; i++) {
 			c = a + b;
 
-			System.out.print(" "+c);
+			System.out.print(" " + c);
 			a = b;
 			b = c;
 
